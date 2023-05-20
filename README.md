@@ -19,7 +19,15 @@ cd python-devtools-boilerplate
 poetry install
 ```
 
-Once the dependencies are installed, you can start developing your project. To run the tests, run:
+Once the dependencies are installed, you can start developing your project.
+
+To start the project in watch mode, run:
+
+```
+make watch
+```
+
+To run the tests, run:
 
 ```
 make test
