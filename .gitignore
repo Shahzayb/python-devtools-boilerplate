@@ -1,0 +1,29 @@
+# Cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Test cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+
+# Virtual environment
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Other temporary/cache files
+*.bak
+*.swp
+*.swo
+*.tmp
+*.sqlite
+

@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "ms-python.isort",
+    "ms-python.black-formatter",
+    "ms-python.flake8",
+    "streetsidesoftware.code-spell-checker",
+    "editorconfig.editorconfig",
+    "ms-vscode.makefile-tools",
+    "esbenp.prettier-vscode"
+  ]
+}
